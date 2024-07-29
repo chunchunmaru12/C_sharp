@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\vowel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\vowel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\conditional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\conditional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\chapterone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\chapterone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\pyramids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\pyramids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\leapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\largest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\largest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\numberclassification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\numberclassification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|c:\\users\\dell\\source\\repos\\chapterone\\chapterone\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EF6D8A-D80D-410C-8DFA-748CBED27D1D}|ChapterOne\\ChapterOne.csproj|solutionrelative:chapterone\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Array.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\Array.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Array.cs",
+              "RelativeToolTip": "ChapterOne\\Array.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:13:23.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pyramids.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Pyramids.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\Pyramids.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Pyramids.cs",
+              "RelativeToolTip": "ChapterOne\\Pyramids.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:03:17.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loop.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Loop.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\Loop.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Loop.cs",
+              "RelativeToolTip": "ChapterOne\\Loop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:02:38.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeapYear.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\LeapYear.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\LeapYear.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\LeapYear.cs",
+              "RelativeToolTip": "ChapterOne\\LeapYear.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:40:35.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\UserInput.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\UserInput.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\UserInput.cs",
+              "RelativeToolTip": "ChapterOne\\UserInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:17:35.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChapterOne.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\ChapterOne.csproj",
+              "RelativeDocumentMoniker": "ChapterOne\\ChapterOne.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\ChapterOne.csproj",
+              "RelativeToolTip": "ChapterOne\\ChapterOne.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T02:04:26.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conditional.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Conditional.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\Conditional.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Conditional.cs",
+              "RelativeToolTip": "ChapterOne\\Conditional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:19:22.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vowel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Vowel.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\Vowel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Vowel.cs",
+              "RelativeToolTip": "ChapterOne\\Vowel.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:27:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Assignment.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\Assignment.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Assignment.cs",
+              "RelativeToolTip": "ChapterOne\\Assignment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:29:30.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NumberClassification.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\NumberClassification.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\NumberClassification.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\NumberClassification.cs",
+              "RelativeToolTip": "ChapterOne\\NumberClassification.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:56:50.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\GradeCalculator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\GradeCalculator.cs",
+              "RelativeToolTip": "ChapterOne\\GradeCalculator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:13:04.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Largest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Largest.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\Largest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\Largest.cs",
+              "RelativeToolTip": "ChapterOne\\Largest.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:22:36.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FizzBuzz.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\FizzBuzz.cs",
+              "RelativeDocumentMoniker": "ChapterOne\\FizzBuzz.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ChapterOne\\ChapterOne\\FizzBuzz.cs",
+              "RelativeToolTip": "ChapterOne\\FizzBuzz.cs",
+              "ViewState": "AQIAAAgAAAAwMzMzMxMzwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:31:17.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
