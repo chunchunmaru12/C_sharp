@@ -7,7 +7,8 @@ namespace ChapterThree{
         -> It is a concept by which we can perform a single action in different ways
         Compile time              Runtime
         Method Overloading        Method Overriding
-        Static binding                 
+        Static binding            Dynamic binding(virtual function)
+        Opertor overloading     
     */
     public class Polymorphism{
         static void Main(string[] args)
