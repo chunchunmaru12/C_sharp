@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\bin\Debug\net8.0\ChapterThree.exe
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\bin\Debug\net8.0\ChapterThree.deps.json
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\bin\Debug\net8.0\ChapterThree.runtimeconfig.json
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\bin\Debug\net8.0\ChapterThree.dll
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\bin\Debug\net8.0\ChapterThree.pdb
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.dll
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\refint\ChapterThree.dll
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.pdb
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ref\ChapterThree.dll
