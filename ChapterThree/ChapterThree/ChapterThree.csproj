@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>ChapterThree.Polymorphism</StartupObject>
+	  <StartupObject>ChapterThree.ComparisonOverloading</StartupObject>
   </PropertyGroup>
 
 </Project>

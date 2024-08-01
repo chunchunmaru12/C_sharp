@@ -12,3 +12,4 @@ C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\refint\Cha
 C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.pdb
 C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.genruntimeconfig.cache
 C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ref\ChapterThree.dll
+C:\Users\DELL\source\repos\ChapterThree\ChapterThree\obj\Debug\net8.0\ChapterThree.sourcelink.json
