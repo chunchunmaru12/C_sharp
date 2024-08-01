@@ -7,7 +7,7 @@ Operator Overloading:
         -> It enables to make user defined implementations of various operations where one of both of the operands are of user defined 
            class
 Syntax:
-access_specifier  className  operator Operator_symbol (parameters)
+access specifier  className  operator Operator_symbol (parameters)
 {
      Code
 }
@@ -19,3 +19,49 @@ Various operator available for overloading
 4. Conditional operators: &&, ||
 5. Assignment Operator: +=, -=, *=, /=, %=,=
 */
+using System;
+namespace ChapterThree
+{
+   //unary operators overload
+   class Complex
+   {
+      private int x;
+      private int y;
+      public Complex() { }
+      public Complex(int i, int j)
+      {
+         x = i;
+         y = j;
+      }
+      public void ShowXY()
+      {
+         Console.WriteLine($"x:{x} & y:{y}");
+      }
+      /* public static Complex operator -(Complex c){
+          Complex temp = new Complex();
+          temp.x=-c.x;
+          temp.y=-c.y;
+          return temp;
+       }*/
+      public static Complex operator ++(Complex c)
+      {
+         Complex temp = new Complex();
+         temp.x = c.x + 10;
+         temp.y = c.y + 10;
+         return temp;
+      }
+   }
+   class OperatorOverloading
+   {
+      static void Main(string[] args)
+      {
+         Complex c1 = new Complex(10, 20);
+         c1.ShowXY();
+         Complex c2 = new Complex();
+         c2.ShowXY();
+         //c2=-c1;
+         c2=++c1;
+         c2.ShowXY();
+      }
+   }
+}
