@@ -5,6 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 /* 
  * Inheritance:/
+ "base" keyword
+  -> to access the fields of base class withing derived classess. Useful when base and derived classes have same field name
+  EXAMPLE::
+        public class Animal{
+            public string color="Red";
+        }
+        public class Dog : Animal{
+            string color="Green";
+            public void showColor(){
+                Console.WriteLine(base.color);
+                Console.WriteLine(color);
+            }
+        }
  * Types:
  * Single Inheritance: class B to class A
  * Multilevel Inheritance: Class C to class B to class A

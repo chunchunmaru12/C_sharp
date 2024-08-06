@@ -14,7 +14,7 @@ namespace ChapterThree{
             Rectangle rect2 = new Rectangle(10,20);
             Rectangle rect3 = new Rectangle(15,25);
             Console.WriteLine(rect1==rect2);
-            Console.WriteLine(rect1!=rect3);
+            Console.WriteLine(rect1!=rect2); //;
         }
 
     }
