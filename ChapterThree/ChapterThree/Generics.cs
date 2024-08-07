@@ -16,6 +16,12 @@ namespace ChapterThree{
         public void SetContent(T value) { content = value; }
         public T GetContent() { return content; }
     }
+    //Generic methods
+    public class Utility{
+        public static void Print<T>(T value) {
+            Console.WriteLine(value);
+        }
+    }
     public class Generics{
         static void Main(string[] args)
         {
@@ -25,6 +31,11 @@ namespace ChapterThree{
             Entity<string> entityString= new Entity<string>();
             entityString.SetContent("meow");
             Console.WriteLine(entityString.GetContent());
+            // method 
+            Utility.Print(42);
+            Utility.Print(3.142);
+            Utility.Print("Hello");
         }
     }
 }
+
