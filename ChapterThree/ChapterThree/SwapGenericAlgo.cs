@@ -34,7 +34,8 @@ public class SwapGenericAlgo
 {
     public void Swap<T>(ref T a, ref T b)
     {
-        T temp = a;
+        T temp;
+        temp = a;
         a = b;
         b = temp;
     }
