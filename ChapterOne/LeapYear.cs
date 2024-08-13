@@ -24,7 +24,7 @@ namespace ChapterOne
                     }
                     else
                     {
-                        Console.WriteLine("Meow Meow");
+                        Console.WriteLine("It isnot a leap year");
                     }
 
                 }
@@ -35,7 +35,7 @@ namespace ChapterOne
             }
             else
             {
-                Console.WriteLine("Meow Meow");
+                Console.WriteLine("It isnot a leap year");
             }
         }
     }
