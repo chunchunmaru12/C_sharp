@@ -1,6 +1,10 @@
 /*
 * Action Delegates => void return
 * Func Delegates => when we have to return something
+Genric Delegates:
+Action<>: The Action<> generic delegate; points to a method that takes up to 16 parameters
+        and return voids
+Func<>: The generic Func<> delegate is used when we want to point to a method that returns a value 16 parameter and return a value
  */
 namespace Chapter4{
     public class ActionExample{
