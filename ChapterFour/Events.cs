@@ -5,7 +5,18 @@ Applications need to response to an events when they occur
 For e.g. interrupt
 Events are used for inter process communication
 The class that sends or raise events are "Publisher"
-THe class that handles or recieves events are "Subscriber"
+The class that handles or recieves events are "Subscriber"
+
+Key Concepts:
+* Delegates -> Events are based on delegates
+* Publisher and Subscriber
+* Event Handlers return void and take two parameters
+* First Parameter -> Source of event(publishing object)
+* Second Parameter -> Object derived from EventArgs 
+* The publisher determines when the event is raised and the subscriber determines what action is taken in response
+* An event can have many subscribers
+* If multiple subscriber, than event handler are invoked synchronously
+
 */
 namespace Chapter4{
     public delegate void DelEventHandler();
