@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Chapter4.Event3</StartupObject>
+    <StartupObject>Chapter4.LambdaWithEvents</StartupObject>
   </PropertyGroup>
 
 </Project>
